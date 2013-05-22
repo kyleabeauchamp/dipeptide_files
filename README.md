@@ -1,2 +1,2 @@
-amber99sb_balanced
+dipeptide_files
 ==================
